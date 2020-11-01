@@ -1,0 +1,11 @@
+==========================================================================
+rendering-element
+
+-> rcc : Viết tắt câu lệnh tạo stateful component
+-> rfc : Viết tắt câu lệnh tạo stateless component
+Hàm render() mặc định là hàm được chạy khi component được khởi tạo
+
+==========================================================================
+props: truyền dữ liệu từ component cha sang component
+-> class mặc định có this.props.<tên props>
+-> function mặc định có tham số props
